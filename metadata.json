@@ -1,0 +1,6 @@
+{
+  "name": "TRAIN-DONASI - Sistem Donasi & Transparansi Yayasan",
+  "description": "Platform transparansi donasi, kasir POS ZISWAF, mutasi real-time PSAK 109, kuitansi digital otomatis, dan notifikasi WhatsApp untuk yayasan & panti asuhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
